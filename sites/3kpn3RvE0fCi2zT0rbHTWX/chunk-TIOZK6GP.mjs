@@ -1,0 +1,2 @@
+function a(e,t){return{description:"What is $Daumen ?! Daumenfrosch is literally just a green thumb. It is both a poorly drawn version of pepe the frog and a versatile symbol of infinitely unique variations. Daumen is love!",favicon:"https://framerusercontent.com/assets/uWp1mywJOIrKmBQEwaMwdFpQWiY.svg",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/22A9dKv7iV5nwsOUPCsfu3jUDw.png",title:"Daumenfrosch"}}export{a};
+//# sourceMappingURL=chunk-TIOZK6GP.mjs.map

@@ -1,0 +1,1520 @@
+Uri: https://events.framer.com/script
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\script
+Content Type: text/javascript
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPZA81d.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPZA81d.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPZDc1dJgs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPZDc1dJgs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/leaguespartan/v11/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPZDM1dJgs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\s\leaguespartan\v11\kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvMIIPZDM1dJgs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/08bCJfmvizuFi36VeazboYh54CQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\08bCJfmvizuFi36VeazboYh54CQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\0E7IMbDzcGABpBwwqNEt60wU0w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\0iDmxkizU9goZoclqIqsV5rvETU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1aaySnsnw0pKE2qUemKvHaM1tw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\1aaySnsnw0pKE2qUemKvHaM1tw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\1ZFS7N918ojhhd0nQWdj3jz4w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1ZgR8LZSrJTG9VOgP5wgqaL3lQ4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\1ZgR8LZSrJTG9VOgP5wgqaL3lQ4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3RO0kKTqHkJmvsJcJAr5at0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\3RO0kKTqHkJmvsJcJAr5at0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4hBRAuM02i3fsxYDzyNvt5Az2so.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\4hBRAuM02i3fsxYDzyNvt5Az2so.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4hhgqiTCDCCa8WhFmTB7QXODupk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\4hhgqiTCDCCa8WhFmTB7QXODupk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5CcgcVyoWSqO1THBiISd6oCog.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\5CcgcVyoWSqO1THBiISd6oCog.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\5HcVoGak8k5agFJSaKa4floXVu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5mDAOkC5Wpzo7NkuE9oYfqlY2u4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\5mDAOkC5Wpzo7NkuE9oYfqlY2u4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5u1LyW8isA2RA3QfYvCc6TVeGSU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\5u1LyW8isA2RA3QfYvCc6TVeGSU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6dsy2CbviAWDcszGLlgyaLpRMk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\6dsy2CbviAWDcszGLlgyaLpRMk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6e1qKhy2mljzCRhlGpuCksCGjGI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\6e1qKhy2mljzCRhlGpuCksCGjGI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6eYp9yIAUvPZY7o0yfI4e2OP6g.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\6eYp9yIAUvPZY7o0yfI4e2OP6g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\6FI2EneKzM3qBy5foOZXey7coCA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\6mJuEAguuIuMog10gGvH5d3cl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6ZMhcggRFfEfbf7lncCpaUbA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\6ZMhcggRFfEfbf7lncCpaUbA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7b925B3vAlG2atcrbV7LoSudp7c.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\7b925B3vAlG2atcrbV7LoSudp7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\867QObYax8ANsfX4TGEVU9YiCM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\8yoV9pUxquX7VD7ZXlNYKQmkmk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/996sR9SfSDuYELz8oHhDOcErkY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\996sR9SfSDuYELz8oHhDOcErkY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/9iRSYClnXA0RMygyIn6yjjWXJw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\9iRSYClnXA0RMygyIn6yjjWXJw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/9WZaFuMg9OiQ7an8bugAJkUG04.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\9WZaFuMg9OiQ7an8bugAJkUG04.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aKoimhPBfs6C7Am2HTTVjGcpE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\aKoimhPBfs6C7Am2HTTVjGcpE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/biaVHhOprxbHaR3dIP7Z8cYurHg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\biaVHhOprxbHaR3dIP7Z8cYurHg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/bIwBTbnyeAOa9wQIBagEdRDHXhE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\bIwBTbnyeAOa9wQIBagEdRDHXhE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/bNYh7lNMEpOegeRYAtyGel1WqBE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\bNYh7lNMEpOegeRYAtyGel1WqBE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/BpOIEy4nYtcp1RwqOtwAgi2EiDE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\BpOIEy4nYtcp1RwqOtwAgi2EiDE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\cugnVhSraaRyANCaUtI5FV17wk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dHHUz45rhM2KCQpj9zttNVlibk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\dHHUz45rhM2KCQpj9zttNVlibk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/djqIk3Er2JcAcz7Rup88BdINEw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\djqIk3Er2JcAcz7Rup88BdINEw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dkR8k5Cze1rY2rQWCcFiLvNxm8M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\dkR8k5Cze1rY2rQWCcFiLvNxm8M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DolVirEGb34pEXEp8t8FQBSK4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DtVQjTG8OGGKnwKYrMHRZVCyo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DtVQjTG8OGGKnwKYrMHRZVCyo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dWFiPjtJpfcxAIDV8RPyuCq04.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\dWFiPjtJpfcxAIDV8RPyuCq04.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/e97VFGU1js4GGgvQCnvIiHpRf0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\e97VFGU1js4GGgvQCnvIiHpRf0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eDNmF3DmGWYDX8NrhNZOl1SDyQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\eDNmF3DmGWYDX8NrhNZOl1SDyQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eIZyQwIlHYR0mnMSneEDMtqBPgw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\eIZyQwIlHYR0mnMSneEDMtqBPgw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EL4v8OG6t2XwHSJLO1YF25DNiDw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\EL4v8OG6t2XwHSJLO1YF25DNiDw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eOWZqb2nQ1SLbtYmcGBFYFSOE5U.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\eOWZqb2nQ1SLbtYmcGBFYFSOE5U.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EZSFVoaPWKnZ6GuVk5dlS5pk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\EZSFVoaPWKnZ6GuVk5dlS5pk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/f2kclCrwmFV8YeznrosrT3kcjE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\f2kclCrwmFV8YeznrosrT3kcjE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\F3kdpd2N0cToWV5huaZjjgM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FBzcXZYmdulcZC0z278U6o0cw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\FBzcXZYmdulcZC0z278U6o0cw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fEqgEChcTaneQFxeugexHq7Bk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\fEqgEChcTaneQFxeugexHq7Bk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fIabp4VN5z7iJ3lNOz9qfNeQHc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\fIabp4VN5z7iJ3lNOz9qfNeQHc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fmXYBApyDC604dR7g2aaACGvCk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\fmXYBApyDC604dR7g2aaACGvCk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ftN1HpyPVJEoEb4q36SOrNdLXU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ftN1HpyPVJEoEb4q36SOrNdLXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FuEG87bF2T2uEeI84KQYYAE9wA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\FuEG87bF2T2uEeI84KQYYAE9wA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fWaKVy6hRB8Z8aBaXHMiFEvPILU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\fWaKVy6hRB8Z8aBaXHMiFEvPILU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fz1JbBffNGgK7BNUI1mmbFBlgA8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\fz1JbBffNGgK7BNUI1mmbFBlgA8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\g0c8vEViiXNlKAgI4Ymmk3Ig.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GdJ7SQjcmkU1sz7lk5lMpKUlKY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\GdJ7SQjcmkU1sz7lk5lMpKUlKY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gLJVFeatQcrirAaS7jqVJIO4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\gLJVFeatQcrirAaS7jqVJIO4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gNa011yWpVpNFgUhhSlDX8nUiPQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\gNa011yWpVpNFgUhhSlDX8nUiPQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/goi1SSqo9KWshoqpg7CqWwBcQBc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\goi1SSqo9KWshoqpg7CqWwBcQBc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GSo3TkcX0SwmUNLnnUlsKhqgZI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\GSo3TkcX0SwmUNLnnUlsKhqgZI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H0Z3dXk6VFBv9TPQedY7FZVVVQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\H0Z3dXk6VFBv9TPQedY7FZVVVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hgmI3sEShaw5UU738TAjDBQPH0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\hgmI3sEShaw5UU738TAjDBQPH0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IETjvc5qzUaRoaruDpPSwCUM8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\IETjvc5qzUaRoaruDpPSwCUM8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/if4nAQEfO1l3iBiurvlUSTaMA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\if4nAQEfO1l3iBiurvlUSTaMA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/iPDparXDXhfwSxmuiEXzr0b1vAU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\iPDparXDXhfwSxmuiEXzr0b1vAU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IpeaX0WzLaonj68howNZg4SJJaY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\IpeaX0WzLaonj68howNZg4SJJaY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JAur4lGGSGRGyrFi59JSIKqVgU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\JAur4lGGSGRGyrFi59JSIKqVgU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\JEXmejW8mXOYMtt0hyRg811kHac.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jN39PDxZWEwjG7Csryx3JN2r2Y.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\jN39PDxZWEwjG7Csryx3JN2r2Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jplzYzqFHXreyADwk9yrkQlWQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\jplzYzqFHXreyADwk9yrkQlWQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Kc2pkIGjh9K7EmlGx2sorKHcJDw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Kc2pkIGjh9K7EmlGx2sorKHcJDw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KCj1bV3vDXY5OLHttTeRYcu9J8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\KCj1bV3vDXY5OLHttTeRYcu9J8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\khkJkwSL66WFg8SX6Wa726c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ksvR4VsLksjpSwnC2fPgHRNMw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ksvR4VsLksjpSwnC2fPgHRNMw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/kZK78sVb0ChIxwI4EF00ArQvpu0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\kZK78sVb0ChIxwI4EF00ArQvpu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/l72nQILmlFUAK8OXlvJB8Qybl2M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\l72nQILmlFUAK8OXlvJB8Qybl2M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/L9nHaKi7ULzGWchEehsfwttxOwM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\L9nHaKi7ULzGWchEehsfwttxOwM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MF544SVCvk3yNpLIz3pwDXFZPKM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\MF544SVCvk3yNpLIz3pwDXFZPKM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MRDnh8epalyri0qENYQVaYkjNjA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\MRDnh8epalyri0qENYQVaYkjNjA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MVhJhYeDWxeyqT939zMNyw9p8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\MVhJhYeDWxeyqT939zMNyw9p8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\n9CXKI3tsmCPeC6MCT9NziShSuQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\nCpxWS6DaPlPe0lHzStXAPCo3lw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nE03Xxh2GngsU8hDpg6CRGxqfoM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\nE03Xxh2GngsU8hDpg6CRGxqfoM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NXxvFRoY5LDh3yCm7MEP2jqYk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\NXxvFRoY5LDh3yCm7MEP2jqYk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oG51mTqVfF2JDETyCzOOIQOpzY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\oG51mTqVfF2JDETyCzOOIQOpzY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oJJMyJlDykMObEyb5VexHSxd24.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\oJJMyJlDykMObEyb5VexHSxd24.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2qr9PAWBt905929rHfxmneMUG0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\P2qr9PAWBt905929rHfxmneMUG0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Pd8gNPn2dSCh4FyjWFw9PJysoQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Pd8gNPn2dSCh4FyjWFw9PJysoQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pFve2DToKu0uyKsWs4NBTHpK7Vc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\pFve2DToKu0uyKsWs4NBTHpK7Vc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PjAOIKsdFTryeYPWcKg4xHgWCTI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\PjAOIKsdFTryeYPWcKg4xHgWCTI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pkaPRuutZhWxJishes736uL2KM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\pkaPRuutZhWxJishes736uL2KM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PONfPc6h4EPYwJliXQBmjVx7QxI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\PONfPc6h4EPYwJliXQBmjVx7QxI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qrVgiXNd6RuQjETYQiVQ9nqCk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\qrVgiXNd6RuQjETYQiVQ9nqCk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\r0mv3NegmA0akcQsNFotG32Las.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/RDJfWXA0aFdpD2OO2AJLBh2Z7E.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\RDJfWXA0aFdpD2OO2AJLBh2Z7E.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/RJeJJARdrtNUtic58kOz7hIgBuE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\RJeJJARdrtNUtic58kOz7hIgBuE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/S0ozQwU7pTEHLcun7j1nUlEsx0.mp4
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\S0ozQwU7pTEHLcun7j1nUlEsx0.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/SDel4nEmK9AyiBktaYZfYI9DrY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\SDel4nEmK9AyiBktaYZfYI9DrY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sMud1BrfhejzYfhsGoUtjWdRb90.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\sMud1BrfhejzYfhsGoUtjWdRb90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sOA6LVskcCqlqggyjIZe0Zh39UQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\sOA6LVskcCqlqggyjIZe0Zh39UQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/SorE7ZPZIqD5pBy9oKeSOEC0Q5k.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\SorE7ZPZIqD5pBy9oKeSOEC0Q5k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sSIKP2TfVPvfK7YVENPE5H87A.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\sSIKP2TfVPvfK7YVENPE5H87A.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/syX0favWwGMDkTs34aSUJp2FDg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\syX0favWwGMDkTs34aSUJp2FDg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sz8HQr9IEEln6nmUJ8X0dtBwUQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\sz8HQr9IEEln6nmUJ8X0dtBwUQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TB25ubMpKGgq66PNQGGdJB2VGM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\TB25ubMpKGgq66PNQGGdJB2VGM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\TBccIZR9kIpkRce5i9ATfPp7a4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TMYuLEOqLWgunxD5qCFeADEgk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\TMYuLEOqLWgunxD5qCFeADEgk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TNtxudDBkAm2RXdtU3rvTBwoM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\TNtxudDBkAm2RXdtU3rvTBwoM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/toNasQAsgu8B7dP8n9xdXRzdNhU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\toNasQAsgu8B7dP8n9xdXRzdNhU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TQqnntSFYYGDv7XtyT3ZhfvDA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\TQqnntSFYYGDv7XtyT3ZhfvDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ua60IRqWK94xCrq0SC639Hbsdjg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ua60IRqWK94xCrq0SC639Hbsdjg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UHqhq621TbUtspKtPKPA1Ne8qY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\UHqhq621TbUtspKtPKPA1Ne8qY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UrzZBOy7RyJEWAZGduzOeHiHuY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\UrzZBOy7RyJEWAZGduzOeHiHuY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\UTeedEK21hO5jDxEUldzdScUqpg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/uUP0myN2OEY8kWGv4U4DKeDieDg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\uUP0myN2OEY8kWGv4U4DKeDieDg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/v2q8JTTTs7McDMSEhnxAIBqd0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\v2q8JTTTs7McDMSEhnxAIBqd0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFOa28RMJNgff4GnWLns8E8vGZw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vFOa28RMJNgff4GnWLns8E8vGZw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFzuJY0c65av44uhEKB6vyjFMg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vFzuJY0c65av44uhEKB6vyjFMg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vpq17U0WM26sBGHgq9jnrUmUf8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vpq17U0WM26sBGHgq9jnrUmUf8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vSoBOmgqFUd0rVCgogjwL7jQI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vSoBOmgqFUd0rVCgogjwL7jQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Vu4RH4OOAYHIXg4LpXVzNVmbpY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Vu4RH4OOAYHIXg4LpXVzNVmbpY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vYXKBGLaUwctOIY5xUjwrXQ4p8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\vYXKBGLaUwctOIY5xUjwrXQ4p8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/w3wwH92cnNPcZVAf63gAmGQW0k.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\w3wwH92cnNPcZVAf63gAmGQW0k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/w9aHRXFhel7kScIgRMsPqEwE3AY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\w9aHRXFhel7kScIgRMsPqEwE3AY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wmHLUqO4QxLaADUScavxvknnBQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\wmHLUqO4QxLaADUScavxvknnBQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WXQXYfAQJIi2pCJACAfWWXfIDqI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\WXQXYfAQJIi2pCJACAfWWXfIDqI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xPVm3TFQkuvdIaC7nzaBBAiE5Y.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\xPVm3TFQkuvdIaC7nzaBBAiE5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xSzma7KIWAdctStaX171ey3lams.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\xSzma7KIWAdctStaX171ey3lams.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xwWV9Y5bwNwM4PjHKFG1XmdwA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\xwWV9Y5bwNwM4PjHKFG1XmdwA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xyBuMTIslVX3kAWAeG5bsIk1vaI.mp4
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\xyBuMTIslVX3kAWAeG5bsIk1vaI.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yHa3FUh9QDCLkYGoHU44PsRbTI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\yHa3FUh9QDCLkYGoHU44PsRbTI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yHWoQPBZSEiCC3aW3JXtcoFby8o.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\yHWoQPBZSEiCC3aW3JXtcoFby8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YJsHMqeEm0oDHuxRTVCwg5eZuo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\YJsHMqeEm0oDHuxRTVCwg5eZuo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YSOgKh50dqzzsXffetgcarlLHcI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\YSOgKh50dqzzsXffetgcarlLHcI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ytuJ1iJd5SddEQ3LTMbeYRRwiE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\ytuJ1iJd5SddEQ3LTMbeYRRwiE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zLXnIInNs9VhCJZQ1B0FvHgtWDM.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\zLXnIInNs9VhCJZQ1B0FvHgtWDM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zpiI5DA3vCb3G2sqEyq9xqogo.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\zpiI5DA3vCb3G2sqEyq9xqogo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zsnJN7Z1wdzUvepJniD3rbvJIyU.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\zsnJN7Z1wdzUvepJniD3rbvJIyU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zUCSsMbWBcHOQoATrhsPVigkc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\zUCSsMbWBcHOQoATrhsPVigkc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\assets\Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/17jbwLaSDGOQlzX7BkHWYWG394.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\17jbwLaSDGOQlzX7BkHWYWG394.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1r6OvVpgKwhFXCqANown3Ws5ho.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\1r6OvVpgKwhFXCqANown3Ws5ho-4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1r6OvVpgKwhFXCqANown3Ws5ho.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\1r6OvVpgKwhFXCqANown3Ws5ho-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1r6OvVpgKwhFXCqANown3Ws5ho.png?scale-down-to=2048
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\1r6OvVpgKwhFXCqANown3Ws5ho-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1r6OvVpgKwhFXCqANown3Ws5ho.png?scale-down-to=4096
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\1r6OvVpgKwhFXCqANown3Ws5ho.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1r6OvVpgKwhFXCqANown3Ws5ho.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\1r6OvVpgKwhFXCqANown3Ws5ho-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1uEcQqdwus1zhn3sPok22NeU.svg
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\1uEcQqdwus1zhn3sPok22NeU.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/1uEcQqdwus1zhn3sPok22NeU.svg?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\1uEcQqdwus1zhn3sPok22NeU-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/29v2gc97uY99XpEy3ZNS9XyUBg.webp
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\29v2gc97uY99XpEy3ZNS9XyUBg.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/29v2gc97uY99XpEy3ZNS9XyUBg.webp?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\29v2gc97uY99XpEy3ZNS9XyUBg-2.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/29v2gc97uY99XpEy3ZNS9XyUBg.webp?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\29v2gc97uY99XpEy3ZNS9XyUBg-1.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/3TmH1m1QPiQIQiFEsGQRkE6GE.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\3TmH1m1QPiQIQiFEsGQRkE6GE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/4mzQ6kQPzkhXgyq8KiERF9SU.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\4mzQ6kQPzkhXgyq8KiERF9SU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5tkhUoQybaJUrnSbuzbCvxkPV90.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\5tkhUoQybaJUrnSbuzbCvxkPV90.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5tkhUoQybaJUrnSbuzbCvxkPV90.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\5tkhUoQybaJUrnSbuzbCvxkPV90-2.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5tkhUoQybaJUrnSbuzbCvxkPV90.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\5tkhUoQybaJUrnSbuzbCvxkPV90-1.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/600eZPAxNotS2IUANi0VLlZsnQ.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\600eZPAxNotS2IUANi0VLlZsnQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/600eZPAxNotS2IUANi0VLlZsnQ.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\600eZPAxNotS2IUANi0VLlZsnQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/69g0ersrv10TLM3P4cHvwarYw4.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\69g0ersrv10TLM3P4cHvwarYw4.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/69g0ersrv10TLM3P4cHvwarYw4.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\69g0ersrv10TLM3P4cHvwarYw4-2.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/69g0ersrv10TLM3P4cHvwarYw4.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\69g0ersrv10TLM3P4cHvwarYw4-1.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/72r220AO0ZX0G4gQHUCsUBino.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\72r220AO0ZX0G4gQHUCsUBino.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7PE7R04mV5EcwEoIctTCBV13s.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\7PE7R04mV5EcwEoIctTCBV13s.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7PE7R04mV5EcwEoIctTCBV13s.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\7PE7R04mV5EcwEoIctTCBV13s-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/7PE7R04mV5EcwEoIctTCBV13s.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\7PE7R04mV5EcwEoIctTCBV13s-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/8IvZWzjP5lD3fPGpxPERMwY2tLw.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\8IvZWzjP5lD3fPGpxPERMwY2tLw.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/8IvZWzjP5lD3fPGpxPERMwY2tLw.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\8IvZWzjP5lD3fPGpxPERMwY2tLw-1.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/9Re57P2J6LTAy4B1Geq3MJ0nnXo.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\9Re57P2J6LTAy4B1Geq3MJ0nnXo.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/9Re57P2J6LTAy4B1Geq3MJ0nnXo.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\9Re57P2J6LTAy4B1Geq3MJ0nnXo-1.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/ABx4U59QFxirK181g7gjVqVd76Y.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\ABx4U59QFxirK181g7gjVqVd76Y.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ABx4U59QFxirK181g7gjVqVd76Y.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\ABx4U59QFxirK181g7gjVqVd76Y-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ABx4U59QFxirK181g7gjVqVd76Y.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\ABx4U59QFxirK181g7gjVqVd76Y-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Bw1iDyS8Uq19E742WUYOAA6yBU.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\Bw1iDyS8Uq19E742WUYOAA6yBU.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/Bw1iDyS8Uq19E742WUYOAA6yBU.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\Bw1iDyS8Uq19E742WUYOAA6yBU-2.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/Bw1iDyS8Uq19E742WUYOAA6yBU.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\Bw1iDyS8Uq19E742WUYOAA6yBU-1.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/DoGa4w8ENfLIUfhl5kyZuvr1FA.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\DoGa4w8ENfLIUfhl5kyZuvr1FA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/dPn1DA4NQWmgsNMFMVivlB1cY.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\dPn1DA4NQWmgsNMFMVivlB1cY.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/dPn1DA4NQWmgsNMFMVivlB1cY.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\dPn1DA4NQWmgsNMFMVivlB1cY-2.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/dPn1DA4NQWmgsNMFMVivlB1cY.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\dPn1DA4NQWmgsNMFMVivlB1cY-1.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/DtdQquZM5yzZFCreei5JWc6KfY.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\DtdQquZM5yzZFCreei5JWc6KfY.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DtdQquZM5yzZFCreei5JWc6KfY.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\DtdQquZM5yzZFCreei5JWc6KfY-1.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DtdQquZM5yzZFCreei5JWc6KfY.png?scale-down-to=2048
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\DtdQquZM5yzZFCreei5JWc6KfY-2.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DYa8Zcmvp3dmB4sZfxFgzNZypk.webp
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\DYa8Zcmvp3dmB4sZfxFgzNZypk.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/DYa8Zcmvp3dmB4sZfxFgzNZypk.webp?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\DYa8Zcmvp3dmB4sZfxFgzNZypk-2.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/DYa8Zcmvp3dmB4sZfxFgzNZypk.webp?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\DYa8Zcmvp3dmB4sZfxFgzNZypk-1.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/gUkg51ACs6V8PHtSeqPb0WwUXs.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\gUkg51ACs6V8PHtSeqPb0WwUXs.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gUkg51ACs6V8PHtSeqPb0WwUXs.jpg?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\gUkg51ACs6V8PHtSeqPb0WwUXs-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gUkg51ACs6V8PHtSeqPb0WwUXs.jpg?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\gUkg51ACs6V8PHtSeqPb0WwUXs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/h1pKAdgtg5j6gwjGNLDXKuhxHd0.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\h1pKAdgtg5j6gwjGNLDXKuhxHd0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/htxTyJe4175HjhI4e6or3dHm8FU.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\htxTyJe4175HjhI4e6or3dHm8FU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/HuT25tppJDWKlwK2llwQi1Wihhk.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\HuT25tppJDWKlwK2llwQi1Wihhk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/iFW8DutCrH2WGOpnDP8Va5ZMaow.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\iFW8DutCrH2WGOpnDP8Va5ZMaow.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ilJIXjygIotan4TNn96Ng8RWYH4.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\ilJIXjygIotan4TNn96Ng8RWYH4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/IxISB8pNnVySORWwjV4GJzjvU.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\IxISB8pNnVySORWwjV4GJzjvU.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/IxISB8pNnVySORWwjV4GJzjvU.jpeg?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\IxISB8pNnVySORWwjV4GJzjvU-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/IxISB8pNnVySORWwjV4GJzjvU.jpeg?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\IxISB8pNnVySORWwjV4GJzjvU-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/jJGaXIghFG8DTE3HE8mrUofDduY.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\jJGaXIghFG8DTE3HE8mrUofDduY.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/JKHAbTlAgNsT2YYJgAPJbu2o.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\JKHAbTlAgNsT2YYJgAPJbu2o.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JKHAbTlAgNsT2YYJgAPJbu2o.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\JKHAbTlAgNsT2YYJgAPJbu2o-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JKHAbTlAgNsT2YYJgAPJbu2o.png?scale-down-to=2048
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\JKHAbTlAgNsT2YYJgAPJbu2o-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JKHAbTlAgNsT2YYJgAPJbu2o.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\JKHAbTlAgNsT2YYJgAPJbu2o-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nwcXcBE9oXgOzDJNTj89VW4TJZg.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\nwcXcBE9oXgOzDJNTj89VW4TJZg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nwcXcBE9oXgOzDJNTj89VW4TJZg.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\nwcXcBE9oXgOzDJNTj89VW4TJZg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oG6IAS2cxVC0CglKl8kISk5u9ac.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\oG6IAS2cxVC0CglKl8kISk5u9ac.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oG6IAS2cxVC0CglKl8kISk5u9ac.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\oG6IAS2cxVC0CglKl8kISk5u9ac-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/oG6IAS2cxVC0CglKl8kISk5u9ac.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\oG6IAS2cxVC0CglKl8kISk5u9ac-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qFaEeJiq5qvTyofxZvkzoK05fsc.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\qFaEeJiq5qvTyofxZvkzoK05fsc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qFaEeJiq5qvTyofxZvkzoK05fsc.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\qFaEeJiq5qvTyofxZvkzoK05fsc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/R7oIxnkBv6nNL37TwbJfr5iJR5Y.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\R7oIxnkBv6nNL37TwbJfr5iJR5Y.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/RA5mJivxgpTDGnfNlaOQnnj3o.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\RA5mJivxgpTDGnfNlaOQnnj3o.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/RA5mJivxgpTDGnfNlaOQnnj3o.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\RA5mJivxgpTDGnfNlaOQnnj3o-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/RA5mJivxgpTDGnfNlaOQnnj3o.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\RA5mJivxgpTDGnfNlaOQnnj3o-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rJSeGK6ZUJ7WJePsQd6Rvdy9WKY.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\rJSeGK6ZUJ7WJePsQd6Rvdy9WKY.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/rJSeGK6ZUJ7WJePsQd6Rvdy9WKY.jpeg?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\rJSeGK6ZUJ7WJePsQd6Rvdy9WKY-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/rkIyix9VFTCERcZTKC3g7vquTfM.webp
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\rkIyix9VFTCERcZTKC3g7vquTfM.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/Rqg6mhkqupRY8SQe6Gqu2umc.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\Rqg6mhkqupRY8SQe6Gqu2umc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Rqg6mhkqupRY8SQe6Gqu2umc.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\Rqg6mhkqupRY8SQe6Gqu2umc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/T6NuYpof8zfKWBsAJGeX5VJM4.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\T6NuYpof8zfKWBsAJGeX5VJM4.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/T6NuYpof8zfKWBsAJGeX5VJM4.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\T6NuYpof8zfKWBsAJGeX5VJM4-2.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/T6NuYpof8zfKWBsAJGeX5VJM4.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\T6NuYpof8zfKWBsAJGeX5VJM4-1.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/toHl91Fyyy0ybGSuKw66bHlvRc.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\toHl91Fyyy0ybGSuKw66bHlvRc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/toHl91Fyyy0ybGSuKw66bHlvRc.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\toHl91Fyyy0ybGSuKw66bHlvRc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Tvp4IcigKYdbbZvjUu7dohFRwI.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\Tvp4IcigKYdbbZvjUu7dohFRwI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/UFmvgpssNMo6y9jNOwWgqmWRI.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\UFmvgpssNMo6y9jNOwWgqmWRI.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/UFmvgpssNMo6y9jNOwWgqmWRI.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\UFmvgpssNMo6y9jNOwWgqmWRI-2.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/UFmvgpssNMo6y9jNOwWgqmWRI.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\UFmvgpssNMo6y9jNOwWgqmWRI-1.png
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/uWp1mywJOIrKmBQEwaMwdFpQWiY.svg
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\uWp1mywJOIrKmBQEwaMwdFpQWiY.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/v5QNLizLzch4kjrO78fEwYJSgY.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\v5QNLizLzch4kjrO78fEwYJSgY.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/v5QNLizLzch4kjrO78fEwYJSgY.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\v5QNLizLzch4kjrO78fEwYJSgY-2.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/v5QNLizLzch4kjrO78fEwYJSgY.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\v5QNLizLzch4kjrO78fEwYJSgY-1.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/VqiRAdTJRQipzMP5U8gehoTZXYo.webp
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\VqiRAdTJRQipzMP5U8gehoTZXYo.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/VqiRAdTJRQipzMP5U8gehoTZXYo.webp?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\VqiRAdTJRQipzMP5U8gehoTZXYo-1.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/YXi9TSLHIvtzap5ojWcYY3NLMo.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\YXi9TSLHIvtzap5ojWcYY3NLMo.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/YXi9TSLHIvtzap5ojWcYY3NLMo.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\YXi9TSLHIvtzap5ojWcYY3NLMo-2.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/YXi9TSLHIvtzap5ojWcYY3NLMo.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\images\YXi9TSLHIvtzap5ojWcYY3NLMo-1.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/17mUVxcx6BNEaF6BwtgPVU6aEWKjSgiR7Ht9w4Ls5uY.ZDLGS2GJ.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\17mUVxcx6BNEaF6BwtgPVU6aEWKjSgiR7Ht9w4Ls5uY.ZDLGS2GJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-7OV5WU42.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-7OV5WU42.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-AHHJ7E2Y.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-AHHJ7E2Y.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-D6UJ3PRU.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-D6UJ3PRU.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-DKTB2747.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-DKTB2747.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-ELYU6EKT.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-ELYU6EKT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-GNKSQ5UY.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-GNKSQ5UY.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-TIOZK6GP.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-TIOZK6GP.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-UM5BXGTD.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-UM5BXGTD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-UVQU2WU2.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-UVQU2WU2.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-VYY44SRO.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-VYY44SRO.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-WO7NKL5C.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-WO7NKL5C.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/chunk-ZVOTEQ2U.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\chunk-ZVOTEQ2U.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/default_script0.KWP5M3C3.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\default_script0.KWP5M3C3.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/eukekZryDs82kAkMKTokEjt13MoI0WIQdfkretw9Xf8.TWKCVQWE.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\eukekZryDs82kAkMKTokEjt13MoI0WIQdfkretw9Xf8.TWKCVQWE.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/3kpn3RvE0fCi2zT0rbHTWX/L9SxSfzIlk1CIt4EKUoSXrT-qQ1WU66lpuMA-zOaP9U.OMTY7LSC.mjs
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\sites\3kpn3RvE0fCi2zT0rbHTWX\L9SxSfzIlk1CIt4EKUoSXrT-qQ1WU66lpuMA-zOaP9U.OMTY7LSC.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/5ICO57VJIN252OT5L2KLEIPW754DTLAO/ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK/TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\third-party-assets\fontshare\wf\5ICO57VJIN252OT5L2KLEIPW754DTLAO\ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK\TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\third-party-assets\fontshare\wf\CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P\HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH\BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\third-party-assets\fontshare\wf\LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI\PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD\GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE/PSUTMASCDJTVPERDYJZPN23BVUFUCQIF/J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\third-party-assets\fontshare\wf\NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE\PSUTMASCDJTVPERDYJZPN23BVUFUCQIF\J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/NID3I7RITWZSKXRCJGOCMP5NOADJK6IG/2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM/ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\third-party-assets\fontshare\wf\NID3I7RITWZSKXRCJGOCMP5NOADJK6IG\2HLHGD7OBTWCOHW64YXOE5KFXHU4KJHM\ZHME2QIRFR7UPJ47NLY27RCAFY44CKZJ.woff2
+Content Type: application/octet-stream
+
+Uri: https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\third-party-assets\fontshare\wf\P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA\ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB\7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.daumenfrosch.xyz/
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\index.htm
+Content Type: text/html
+
+Uri: https://www.daumenfrosch.xyz/blog
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\blog.html
+Content Type: text/html
+
+Uri: https://www.daumenfrosch.xyz/blog/daumenfrosch-the-culture-coin
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\blog\daumenfrosch-the-culture-coin.html
+Content Type: text/html
+
+Uri: https://www.daumenfrosch.xyz/blog/daumenfrosch-the-thumb-that-stayed-up
+File Name: C:\work\Downloaded Web Sites\18.01\www.daumenfrosch.xyz\blog\daumenfrosch-the-thumb-that-stayed-up.html
+Content Type: text/html
+
